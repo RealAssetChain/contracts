@@ -2,7 +2,7 @@ pragma solidity ^0.4.18;
 
 /**RealAsset Chain will be used to invest the Real Assets
 /**
- * @title SafeMath
+ * title SafeMath
  */
 library SafeMath {
 
